@@ -1,0 +1,30 @@
+input {
+    height: 3rem;
+    width: 15rem;
+    border-radius: 50px;
+    border: 1px solid #42A662;
+    background-color: transparent;
+    padding-left: 1rem;
+    outline: none;
+    color: #42A662;
+}
+
+button {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50px;
+    border: 1px solid #42A662;
+    background-color: transparent;
+    color: #42A662;
+    font-size: large;
+}
+
+form {
+    display: flex;
+    gap: 1rem;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    padding-top: 2rem;
+
+}
